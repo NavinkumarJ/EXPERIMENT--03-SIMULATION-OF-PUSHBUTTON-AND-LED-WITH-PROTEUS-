@@ -72,9 +72,11 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-## NAME: NAVIN KUMAR J
-## REG NO: 212222240071
+
 ```
+NAME: NAVIN KUMAR J
+REG NO: 212222240071
+
 #include "main.h"
 
 void SystemClock_Config(void);
